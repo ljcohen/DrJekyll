@@ -80,6 +80,7 @@
 
 ## Playing
 * [imslp-cello](https://imslp.org/wiki/List_of_Compositions_Featuring_the_Cello)
+* [UC Davis Symphony](http://arts.ucdavis.edu/symphony-auditions)
 
 ## Electronic
 * [dejavu - Audio Fingerprinting](https://github.com/worldveil/dejavu)
