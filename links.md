@@ -1,7 +1,5 @@
 # Personal Links
 
-“However vast the darkness, we must supply our own light.” – Stanley Kubrick
-
 ## Notes
 * [Evernote](https://www.evernote.com/)
 * [Trello](https://trello.com/)
@@ -28,13 +26,9 @@
 * [Davis FIT House - SpinFIT](https://clients.mindbodyonline.com/classic/home?studioid=16815)
 
 ## Food
-* [Gluten Free Girl]() [lessons]()
+* [Gluten Free Girl](https://glutenfreegirl.com/) [lessons](https://app.moonclerk.com/pay/nzolz6k0yxe)
 * [Asian Tomato soup](http://www.bonappetit.com/recipe/tomato-and-crab-soup)
 * [pretzels](http://www.theglutenfreespouse.com/2011/02/gluten-free-soft-pretzels.html)
-
-## Grad School
-* [Think Like a Postdoc](http://www.malloryladd.com/)
-* [#whatshouldwecallgradschool](http://whatshouldwecallgradschool.tumblr.com/)
 
 ## Postdoc
 * [Smithsonian Biodiversity Genomics Postdoctoral Fellowship Program, due 12/1 yearly](http://www.smithsonianofi.com/smithsonian-biodiversity-genomics-postdoctoral-fellowship-program/)
@@ -63,15 +57,6 @@
 * [Linkedin](https://www.linkedin.com/in/lisajohnsoncohen)
 * [Google Scholar](https://scholar.google.com/citations?user=o556TggAAAAJ&hl=en)
 * [Github](https://github.com/ljcohen)
-
-## Relationships
-* [Esther Perel](http://www.estherperel.com/blog/)
-* [Happiness/Intimacy](https://youtu.be/f_qhdPflUb8)
-* [Developing Detachment](http://www.livestrong.com/article/14712-developing-detachment/)
-* [Why You Will Marry the Wrong Person](http://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html?ref=oembed)
-* [The 10 Worst Reasons to Stay Friends With Your Ex](https://www.psychologytoday.com/blog/in-love-and-war/201405/the-10-worst-reasons-stay-friends-your-ex)
-* [questions](http://www.nytimes.com/interactive/2016/03/23/fashion/weddings/marriage-questions.html?smid=fb-nytimes&smtyp=cur&_r=0)
-* [Puuung](http://www.grafolio.com/puuung1/works.grfl)
 
 ## Tattoo
 * [Against the Grain](https://www.facebook.com/pg/Against-The-Grain-Tattoo-137641249597404/about/?ref=page_internal)
@@ -110,9 +95,12 @@
 * [Struggling for Words; Owning Your Stutter](http://www.huffingtonpost.com/bobby-caruso/struggling-for-words-owning-your-stutter_b_6846408.html)
 * [Shorts 'n Longs](https://www.facebook.com/events/397549777036792/)
 * [Make Room For the Stuttering](https://stutterrockstar.com/)
+* [Public Speaking Hacks](https://sweetteascience.com/2016/10/06/public-speaking-hacks-for-scientists/)
+* [The Elevator Pitch](http://blogs.nature.com/naturejobs/2015/06/04/public-speaking-the-elevator-pitch)
 
 ## Teaching
 * [How Learning Works (pdf)](https://www.missouristate.edu/assets/fctl/MSU_HLW_Keynote.pdf)
+* [Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/)
 
 ## Writing
 * [Write Like a Motherfucker](https://www.brainpickings.org/2015/04/13/cheryl-strayed-write-like-a-motherfucker-advice/?mc_cid=8eacedb40c&mc_eid=986e19c1f1)
@@ -125,3 +113,5 @@
 * [A Pipette and an Open Mind](https://apipetteandanopenmind.wordpress.com/)
 * [Opiniomics](http://www.opiniomics.org/)
 * [brainpickings](https://www.brainpickings.org/)
+* [Think Like a Postdoc](http://www.malloryladd.com/)
+* [#whatshouldwecallgradschool](http://whatshouldwecallgradschool.tumblr.com/)
