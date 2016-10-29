@@ -32,7 +32,7 @@
 
 ## Postdoc
 * [Smithsonian Biodiversity Genomics Postdoctoral Fellowship Program, due 12/1 yearly](http://www.smithsonianofi.com/smithsonian-biodiversity-genomics-postdoctoral-fellowship-program/)
-* [Functional Genomics and Bioinformatics, NOAA-NWFSC](https://www.nwfsc.noaa.gov/research/divisions/efs/env_phys/index.cfm)
+* [National Research Council](http://sites.nationalacademies.org/pga/rap/), Participating Agency: [Functional Genomics and Bioinformatics, NOAA-NWFSC](https://www.nwfsc.noaa.gov/research/divisions/efs/env_phys/index.cfm)
 
 ## Meetings/Workshops
 * [Global Biodiversity Genomics Conference](https://genome10k.soe.ucsc.edu/events/event/17)
@@ -40,6 +40,7 @@
 * [ASLO](https://www.sgmeet.com/aslo/honolulu2017/default.asp)
 * [Workshop on Molecular Evolution](http://www.mbl.edu/education/special-topics-courses/workshop-on-molecular-evolution/)
 * [Workshop on Phylogenomics](http://evomics.org/workshop-on-phylogenomics/)
+* [UNOLS Early Career Opportunities](https://www.unols.org/news-categories/early-career-updates)
 
 ## Funding
 * [US EPA Funding Opportunities](https://www.epa.gov/research-grants/research-funding-opportunities), [Water Research Grants](https://www.epa.gov/research-grants/water-research-grants)
