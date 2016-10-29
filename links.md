@@ -32,7 +32,7 @@
 
 ## Postdoc
 * [Smithsonian Biodiversity Genomics Postdoctoral Fellowship Program, due 12/1 yearly](http://www.smithsonianofi.com/smithsonian-biodiversity-genomics-postdoctoral-fellowship-program/)
-* [National Research Council](http://sites.nationalacademies.org/pga/rap/), Participating Agency: [Functional Genomics and Bioinformatics, NOAA-NWFSC](https://www.nwfsc.noaa.gov/research/divisions/efs/env_phys/index.cfm)
+* [National Research Council](http://sites.nationalacademies.org/pga/rap/), Participating Agency: [Functional Genomics and Bioinformatics, NOAA-NWFSC](https://www.nwfsc.noaa.gov/research/divisions/efs/bioinformatics.cfm)
 
 ## Meetings/Workshops
 * [Global Biodiversity Genomics Conference](https://genome10k.soe.ucsc.edu/events/event/17)
