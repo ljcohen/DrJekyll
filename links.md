@@ -78,6 +78,7 @@
 * [Árstíðir](http://www.arstidir.com/) [(bandcamp)](https://arstidir.bandcamp.com/music)
 * [Glass Animals](http://www.glassanimals.eu/live/) [(soundcloud)](https://soundcloud.com/glassanimals)
 * [Syntax](http://www.syntax.uk.com/)
+* [Cheb i Sabbah](https://soundcloud.com/chebisabbah)
 
 ## Playing
 * [imslp-cello](https://imslp.org/wiki/List_of_Compositions_Featuring_the_Cello)
