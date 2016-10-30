@@ -91,7 +91,7 @@
 * [organ accompaniments for Gregorian Chant](https://github.com/CMAA/nova-organi-harmonia)
 * [freesound.org](https://www.freesound.org/)
 * [you.dj](http://you.dj/)
-* [spin-academy](http://spin-academy.com/lesson/how-to-live-remix-a-track/)
+* [spin-academy](http://spin-academy.com/lessons/#2)
 
 ## Speech
 * [Nina G](http://www.ninagcomedian.com/)
