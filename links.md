@@ -88,7 +88,6 @@
 * [dejavu - Audio Fingerprinting](https://github.com/worldveil/dejavu)
 * [Echo Nest Remix](https://github.com/echonest/remix)
 * [algorithmic remixing - after Echo Nest](https://github.com/algorithmic-music-exploration/amen)
-* [organ accompaniments for Gregorian Chant](https://github.com/CMAA/nova-organi-harmonia)
 * [freesound.org](https://www.freesound.org/)
 * [you.dj](http://you.dj/)
 
